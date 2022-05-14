@@ -1,0 +1,354 @@
+
+#######################
+Report Date: 2022-04-26
+Enviroment: dev
+#######################
+JenkinsFile: Jenkinsfile-micro-cloud
+Version Original: 5.70.0
+Version Replaced: 5.70.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/cloud.config/5.70.0/cloud.config-5.70.0.jar'
+Version Original: 5.75.1
+Version Replaced: 5.70.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/cloud.web.all/5.70.0/cloud.web.all-5.70.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collectionsexport
+Version Original: 5.74.0
+Version Replaced: 5.74.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.export.config/5.74.0/collections.export.config-5.74.0.jar'
+Version Original: 5.74.1
+Version Replaced: 5.74.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.export.web.all/5.74.0/collections.export.web.all-5.74.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collectionsimport
+Version Original: 5.64.0
+Version Replaced: 5.64.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.import.config/5.64.0/collections.import.config-5.64.0.jar'
+Version Original: 5.64.1
+Version Replaced: 5.64.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.import.web.all/5.64.0/collections.import.web.all-5.64.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-exportlc
+Version Original: 5.60.0
+Version Replaced: 5.60.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/exportlc.config/5.60.0/exportlc.config-5.60.0.jar'
+Version Original: 5.61.1
+Version Replaced: 5.60.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/exportlc.web.all/5.60.0/exportlc.web.all-5.60.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-importlc
+Version Original: 5.54.0
+Version Replaced: 5.54.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/importlc.config/5.54.0/importlc.config-5.54.0.jar'
+Version Original: 5.54.0
+Version Replaced: 5.54.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/importlc.web.all/5.54.0/importlc.web.all-5.54.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-stbexport
+Version Original: 5.37.0
+Version Replaced: 5.35.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/stbexport.web.all/5.35.0/stbexport.web.all-5.35.0.jar'
+Version Original: 5.35.0
+Version Replaced: 5.35.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/stbexport.config/5.35.0/stbexport.config-5.35.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-stbimport
+Version Original: 5.57.0
+Version Replaced: 5.55.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/stbimport.web.all/5.55.0/stbimport.web.all-5.55.0.jar'
+Version Original: 5.55.0
+Version Replaced: 5.55.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/stbimport.config/5.55.0/stbimport.config-5.55.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-loans
+Version Original: 5.34.0
+Version Replaced: 5.34.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/loans.config/5.34.0/loans.config-5.34.0.jar'
+Version Original: 5.34.0
+Version Replaced: 5.34.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/loans.web.all/5.34.0/loans.web.all-5.34.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-gtsintegration
+Version Original: 5.47.0
+Version Replaced: 5.47.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/gts.integration.boot/5.47.0/gts.integration.boot-5.47.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-mockgts
+Version Original: 1.68.0
+Version Replaced: 1.68.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/mock.gts.api/1.68.0/mock.gts.api-1.68.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collexpintegration
+Version Original: 1.74.0
+Version Replaced: 1.74.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/collexp.integration.boot/1.74.0/collexp.integration.boot-1.74.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collimpintegration
+Version Original: 1.71.0
+Version Replaced: 1.71.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/collimp.integration.boot/1.71.0/collimp.integration.boot-1.71.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-exportlcintegration
+Version Original: 1.73.0
+Version Replaced: 1.73.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/exportlc.integration.boot/1.73.0/exportlc.integration.boot-1.73.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-importlcintegration
+Version Original: 1.69.0
+Version Replaced: 1.69.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/importlc.integration.boot/1.69.0/importlc.integration.boot-1.69.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-loansintegration
+Version Original: 1.52.0
+Version Replaced: 1.52.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/loans.integration.boot/1.52.0/loans.integration.boot-1.52.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-stbexportintegration
+Version Original: 1.27.0
+Version Replaced: 1.25.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/stbexport.integration.boot/1.25.0/stbexport.integration.boot-1.25.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-stbimportintegration
+Version Original: 1.32.0
+Version Replaced: 1.30.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/stbimport.integration.boot/1.30.0/stbimport.integration.boot-1.30.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collectionsexportjobs
+Version Original: 5.74.0
+Version Replaced: 5.74.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.export.jobs.web.all/5.74.0/collections.export.jobs.web.all-5.74.0.jar'
+
+#######################
+Report Date: 2022-04-27
+Enviroment: dev
+#######################
+JenkinsFile: Jenkinsfile-micro-cloud
+Version Original: 5.70.0
+Version Replaced: 5.70.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/cloud.config/5.70.0/cloud.config-5.70.0.jar'
+Version Original: 5.75.1
+Version Replaced: 5.70.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/cloud.web.all/5.70.0/cloud.web.all-5.70.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collectionsexport
+Version Original: 5.74.0
+Version Replaced: 5.74.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.export.config/5.74.0/collections.export.config-5.74.0.jar'
+Version Original: 5.74.1
+Version Replaced: 5.74.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.export.web.all/5.74.0/collections.export.web.all-5.74.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collectionsimport
+Version Original: 5.64.0
+Version Replaced: 5.64.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.import.config/5.64.0/collections.import.config-5.64.0.jar'
+Version Original: 5.64.1
+Version Replaced: 5.64.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.import.web.all/5.64.0/collections.import.web.all-5.64.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-exportlc
+Version Original: 5.60.0
+Version Replaced: 5.60.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/exportlc.config/5.60.0/exportlc.config-5.60.0.jar'
+Version Original: 5.61.1
+Version Replaced: 5.60.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/exportlc.web.all/5.60.0/exportlc.web.all-5.60.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-importlc
+Version Original: 5.54.0
+Version Replaced: 5.54.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/importlc.config/5.54.0/importlc.config-5.54.0.jar'
+Version Original: 5.54.0
+Version Replaced: 5.54.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/importlc.web.all/5.54.0/importlc.web.all-5.54.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-stbexport
+Version Original: 5.37.0
+Version Replaced: 5.35.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/stbexport.web.all/5.35.0/stbexport.web.all-5.35.0.jar'
+Version Original: 5.35.0
+Version Replaced: 5.35.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/stbexport.config/5.35.0/stbexport.config-5.35.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-stbimport
+Version Original: 5.57.0
+Version Replaced: 5.55.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/stbimport.web.all/5.55.0/stbimport.web.all-5.55.0.jar'
+Version Original: 5.55.0
+Version Replaced: 5.55.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/stbimport.config/5.55.0/stbimport.config-5.55.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-loans
+Version Original: 5.34.0
+Version Replaced: 5.34.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/loans.config/5.34.0/loans.config-5.34.0.jar'
+Version Original: 5.34.0
+Version Replaced: 5.34.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/loans.web.all/5.34.0/loans.web.all-5.34.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-gtsintegration
+Version Original: 5.47.0
+Version Replaced: 5.47.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/gts.integration.boot/5.47.0/gts.integration.boot-5.47.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-mockgts
+Version Original: 1.68.0
+Version Replaced: 1.68.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/mock.gts.api/1.68.0/mock.gts.api-1.68.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collexpintegration
+Version Original: 1.74.0
+Version Replaced: 1.74.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/collexp.integration.boot/1.74.0/collexp.integration.boot-1.74.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collimpintegration
+Version Original: 1.71.0
+Version Replaced: 1.71.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/collimp.integration.boot/1.71.0/collimp.integration.boot-1.71.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-exportlcintegration
+Version Original: 1.73.0
+Version Replaced: 1.73.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/exportlc.integration.boot/1.73.0/exportlc.integration.boot-1.73.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-importlcintegration
+Version Original: 1.69.0
+Version Replaced: 1.69.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/importlc.integration.boot/1.69.0/importlc.integration.boot-1.69.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-loansintegration
+Version Original: 1.52.0
+Version Replaced: 1.52.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/loans.integration.boot/1.52.0/loans.integration.boot-1.52.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-stbexportintegration
+Version Original: 1.27.0
+Version Replaced: 1.25.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/stbexport.integration.boot/1.25.0/stbexport.integration.boot-1.25.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-stbimportintegration
+Version Original: 1.32.0
+Version Replaced: 1.30.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/stbimport.integration.boot/1.30.0/stbimport.integration.boot-1.30.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collectionsexportjobs
+Version Original: 5.74.0
+Version Replaced: 5.74.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.export.jobs.web.all/5.74.0/collections.export.jobs.web.all-5.74.0.jar'
+
+#######################
+Report Date: 2022-04-27
+Enviroment: dev
+#######################
+JenkinsFile: Jenkinsfile-micro-cloud
+Version Original: 5.70.0
+Version Replaced: 5.70.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/cloud.config/5.70.0/cloud.config-5.70.0.jar'
+Version Original: 5.75.1
+Version Replaced: 5.70.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/cloud.web.all/5.70.0/cloud.web.all-5.70.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collectionsexport
+Version Original: 5.74.0
+Version Replaced: 5.74.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.export.config/5.74.0/collections.export.config-5.74.0.jar'
+Version Original: 5.74.1
+Version Replaced: 5.74.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.export.web.all/5.74.0/collections.export.web.all-5.74.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collectionsimport
+Version Original: 5.64.0
+Version Replaced: 5.64.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.import.config/5.64.0/collections.import.config-5.64.0.jar'
+Version Original: 5.64.1
+Version Replaced: 5.64.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.import.web.all/5.64.0/collections.import.web.all-5.64.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-exportlc
+Version Original: 5.60.0
+Version Replaced: 5.60.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/exportlc.config/5.60.0/exportlc.config-5.60.0.jar'
+Version Original: 5.61.1
+Version Replaced: 5.60.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/exportlc.web.all/5.60.0/exportlc.web.all-5.60.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-importlc
+Version Original: 5.54.0
+Version Replaced: 5.54.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/importlc.config/5.54.0/importlc.config-5.54.0.jar'
+Version Original: 5.54.0
+Version Replaced: 5.54.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/importlc.web.all/5.54.0/importlc.web.all-5.54.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-stbexport
+Version Original: 5.37.0
+Version Replaced: 5.35.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/stbexport.web.all/5.35.0/stbexport.web.all-5.35.0.jar'
+Version Original: 5.35.0
+Version Replaced: 5.35.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/stbexport.config/5.35.0/stbexport.config-5.35.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-stbimport
+Version Original: 5.57.0
+Version Replaced: 5.55.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/stbimport.web.all/5.55.0/stbimport.web.all-5.55.0.jar'
+Version Original: 5.55.0
+Version Replaced: 5.55.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/stbimport.config/5.55.0/stbimport.config-5.55.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-loans
+Version Original: 5.34.0
+Version Replaced: 5.34.0
+String Replaced: CONFIG_ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/loans.config/5.34.0/loans.config-5.34.0.jar'
+Version Original: 5.34.0
+Version Replaced: 5.34.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/loans.web.all/5.34.0/loans.web.all-5.34.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-gtsintegration
+Version Original: 5.47.0
+Version Replaced: 5.47.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/gts.integration.boot/5.47.0/gts.integration.boot-5.47.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-mockgts
+Version Original: 1.68.0
+Version Replaced: 1.68.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/mock.gts.api/1.68.0/mock.gts.api-1.68.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collexpintegration
+Version Original: 1.74.0
+Version Replaced: 1.74.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/collexp.integration.boot/1.74.0/collexp.integration.boot-1.74.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collimpintegration
+Version Original: 1.71.0
+Version Replaced: 1.71.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/collimp.integration.boot/1.71.0/collimp.integration.boot-1.71.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-exportlcintegration
+Version Original: 1.73.0
+Version Replaced: 1.73.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/exportlc.integration.boot/1.73.0/exportlc.integration.boot-1.73.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-importlcintegration
+Version Original: 1.69.0
+Version Replaced: 1.69.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/importlc.integration.boot/1.69.0/importlc.integration.boot-1.69.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-loansintegration
+Version Original: 1.52.0
+Version Replaced: 1.52.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/loans.integration.boot/1.52.0/loans.integration.boot-1.52.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-stbexportintegration
+Version Original: 1.27.0
+Version Replaced: 1.25.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/stbexport.integration.boot/1.25.0/stbexport.integration.boot-1.25.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-stbimportintegration
+Version Original: 1.32.0
+Version Replaced: 1.30.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/integration/stbimport.integration.boot/1.30.0/stbimport.integration.boot-1.30.0.jar'
+
+JenkinsFile: Jenkinsfile-micro-collectionsexportjobs
+Version Original: 5.74.0
+Version Replaced: 5.74.0
+String Replaced: ARTIFACT_URL='https://nexus.alm.europe.cloudcenter.corp/repository/artefactorymercury-release/com/mercurytfs/mercury/cloud/web/collections.export.jobs.web.all/5.74.0/collections.export.jobs.web.all-5.74.0.jar'
