@@ -1,5 +1,4 @@
-# Script to Get Values from OCP-Pod's Config, Jenkinsfiles, & compare then.
-
+# Script to Get Values from OCP-Pod's Config, Jenkinsfiles, & compare.
 The script: 
     - Download the jenkinsfiles and store the values in a dict
     - Connect to OCP and the project's selected and get config values & store it in a dict
@@ -18,6 +17,7 @@ Examples:
     - Txt´s files
 
 Rev's:
+
 20/04/2022
 - Update ocp4 (Cert) Address
 - Added user & password functions to the OCP login - password with getpass() module
