@@ -36,7 +36,7 @@ date_key = str(today.date())
 # GitHub Parameters:
 username = 'user_github'
 repo_url = 'git@github.xxx.xxxxxxx.xxxxxxxxx.corp:' + username + '/jenkinfiles_repo'
-local_path = './temp-mercury-jenkins-repo/'
+local_path = './temp-jenkins-repo/'
 
 
 # PATTERNS
