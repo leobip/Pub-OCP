@@ -1,0 +1,4 @@
+ANS, ansible, "master", , null, null, "nmonge@hotelbeds.com", "Merge pull request #2204 in ANS/ansible from feature/TIN-1335-DecomisionFeedbackapi to master
+
+* commit '8bd87072d7a0494a4541f1b2df43e7b94b5777fc':
+  TIN-1335 - [api hotel] Delete hotel-feedback-api Live enviroment", 23-02-2021, null, null, null, null, null, null, null, null, null, null, null, null, null
