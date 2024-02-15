@@ -3,6 +3,8 @@
 
 ### - OpenShift Scripts
 
+### - .sh Bitbucket scripts 
+
 
 ## Summary:
 - Ocp_GetValues&Compare
